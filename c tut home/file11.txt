@@ -1,0 +1,6 @@
+Name	Marks	CGPA	Course
+Krish	478 	8.60	Btech
+Kanav	496 	9.80	BCA
+Anaya	488 	9.20	BBA
+Anish	470 	8.50	Btech
+Agam	480 	8.80	BDS
